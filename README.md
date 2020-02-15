@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![memorycardgame](https://user-images.githubusercontent.com/51275356/74592745-1f0b5780-4fea-11ea-8e60-5cc5c09cbdec.PNG)
+
 ### Rules of the Game
 1- There are seven pairs that must be matched. You simply click on two cards if they're a pair they will be surrounded by a border and stay flipped, if not they will
 flip back. Once the game has loaded the card's position will not change but remain the same.
